@@ -13,7 +13,7 @@
       "name": "ksrc",
       "source": {
         "source": "github",
-        "repo": "respawn-app/ksrc"
+        "repo": "respawn-llc/ksrc"
       },
       "description": "Ksrc CLI skill for searching/reading Kotlin dependency sources"
     },
@@ -21,7 +21,7 @@
       "name": "flowmvi",
       "source": {
         "source": "github",
-        "repo": "respawn-app/FlowMVI"
+        "repo": "respawn-llc/FlowMVI"
       },
       "description": "FlowMVI skill for Kotlin Multiplatform MVI framework",
       "version": "3.3.0-alpha03"

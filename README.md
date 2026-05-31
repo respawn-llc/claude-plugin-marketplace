@@ -6,7 +6,7 @@ This repository hosts the Claude Code plugin marketplace for Respawn.
 
 In Claude Code:
 ```
-/plugin marketplace add respawn-app/claude-plugin-marketplace
+/plugin marketplace add respawn-llc/claude-plugin-marketplace
 ```
 
 ## Install ksrc plugin
