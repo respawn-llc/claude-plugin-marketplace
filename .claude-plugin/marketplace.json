@@ -30,7 +30,7 @@
       "name": "firefox-cli",
       "source": {
         "source": "github",
-        "repo": "Nek-12/firefox-cli"
+        "repo": "respawn-llc/firefox-cli"
       },
       "description": "Firefox control CLI skill for AI agents",
       "version": "0.1.0"
